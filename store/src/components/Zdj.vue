@@ -1,11 +1,5 @@
 <template>
   <div>
-    <div class="z1">
-      <li><router-link to="/" >推荐</router-link></li>
-      <li><router-link to="/">贼惦记</router-link></li>
-      <li><router-link to="/">美食</router-link></li>
-      <li><router-link to="/">母婴</router-link></li>
-    </div>
 <div>
   <div class="z2">
   <div class="z3">
@@ -23,6 +17,9 @@
 </div>
    <div class="z6">
      <p>即将开售</p>
+     <div>
+       <p></p>
+     </div>
    </div>
   </div>
 </template>
@@ -71,7 +68,7 @@
     margin: 0.04rem  0 0 0rem;
   }
   .z5{
-    padding: 0 0.1rem;
+    padding:0 0 0.1rem;
   }
   .z6{
     padding-top: 0.2rem;
