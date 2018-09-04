@@ -1,11 +1,5 @@
 <template>
   <div>
-    <div class="z1">
-      <li><router-link to="/" >推荐</router-link></li>
-      <li><router-link to="/">贼惦记</router-link></li>
-      <li><router-link to="/">美食</router-link></li>
-      <li><router-link to="/">母婴</router-link></li>
-    </div>
 <div>
   <div class="z2">
   <div class="z3">
