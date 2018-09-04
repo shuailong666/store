@@ -10,6 +10,7 @@ Vue.use(Router)
 
 export default new Router({
   routes: [
+    // 龙
     {
       path: '/tou',
       name: 'Tou',
@@ -26,7 +27,7 @@ export default new Router({
         '/tou':Tou,
         '/daoh':Daoh,
         '/wei':Wei,
-        default:Zdj
+        default:Daoh
       }
     },
     {
@@ -34,5 +35,222 @@ export default new Router({
       name: 'Tuijian',
       component: Tuijian
     },
+    {
+      path: '/tt',
+      name: 'Tuijian',
+      component: Tuijian
+    },
+    {
+      path: '/tt',
+      name: 'Tuijian',
+      component: Tuijian
+    },
+    {
+      path: '/tt',
+      name: 'Tuijian',
+      component: Tuijian
+    },{
+      path: '/tt',
+      name: 'Tuijian',
+      component: Tuijian
+    },{
+      path: '/tt',
+      name: 'Tuijian',
+      component: Tuijian
+    },{
+      path: '/tt',
+      name: 'Tuijian',
+      component: Tuijian
+    },
+    {
+      path: '/tt',
+      name: 'Tuijian',
+      component: Tuijian
+    },{
+      path: '/tt',
+      name: 'Tuijian',
+      component: Tuijian
+    },{
+      path: '/tt',
+      name: 'Tuijian',
+      component: Tuijian
+    },{
+      path: '/tt',
+      name: 'Tuijian',
+      component: Tuijian
+    },{
+      path: '/tt',
+      name: 'Tuijian',
+      component: Tuijian
+    },{
+      path: '/tt',
+      name: 'Tuijian',
+      component: Tuijian
+    },{
+      path: '/tt',
+      name: 'Tuijian',
+      component: Tuijian
+    },{
+      path: '/tt',
+      name: 'Tuijian',
+      component: Tuijian
+    },
+   // 宽
+    {
+      path: '/tt',
+      name: 'Tuijian',
+      component: Tuijian
+    },{
+      path: '/tt',
+      name: 'Tuijian',
+      component: Tuijian
+    },{
+      path: '/tt',
+      name: 'Tuijian',
+      component: Tuijian
+    },{
+      path: '/tt',
+      name: 'Tuijian',
+      component: Tuijian
+    },{
+      path: '/tt',
+      name: 'Tuijian',
+      component: Tuijian
+    },{
+      path: '/tt',
+      name: 'Tuijian',
+      component: Tuijian
+    },{
+      path: '/tt',
+      name: 'Tuijian',
+      component: Tuijian
+    },{
+      path: '/tt',
+      name: 'Tuijian',
+      component: Tuijian
+    },{
+      path: '/tt',
+      name: 'Tuijian',
+      component: Tuijian
+    },{
+      path: '/tt',
+      name: 'Tuijian',
+      component: Tuijian
+    },{
+      path: '/tt',
+      name: 'Tuijian',
+      component: Tuijian
+    },{
+      path: '/tt',
+      name: 'Tuijian',
+      component: Tuijian
+    },{
+      path: '/tt',
+      name: 'Tuijian',
+      component: Tuijian
+    },{
+      path: '/tt',
+      name: 'Tuijian',
+      component: Tuijian
+    },{
+      path: '/tt',
+      name: 'Tuijian',
+      component: Tuijian
+    },{
+      path: '/tt',
+      name: 'Tuijian',
+      component: Tuijian
+    },{
+      path: '/tt',
+      name: 'Tuijian',
+      component: Tuijian
+    },{
+      path: '/tt',
+      name: 'Tuijian',
+      component: Tuijian
+    },
+    // 胜
+    {
+      path: '/tt',
+      name: 'Tuijian',
+      component: Tuijian
+    },{
+      path: '/tt',
+      name: 'Tuijian',
+      component: Tuijian
+    },{
+      path: '/tt',
+      name: 'Tuijian',
+      component: Tuijian
+    },{
+      path: '/tt',
+      name: 'Tuijian',
+      component: Tuijian
+    },{
+      path: '/tt',
+      name: 'Tuijian',
+      component: Tuijian
+    },{
+      path: '/tt',
+      name: 'Tuijian',
+      component: Tuijian
+    },{
+      path: '/tt',
+      name: 'Tuijian',
+      component: Tuijian
+    },{
+      path: '/tt',
+      name: 'Tuijian',
+      component: Tuijian
+    },{
+      path: '/tt',
+      name: 'Tuijian',
+      component: Tuijian
+    },{
+      path: '/tt',
+      name: 'Tuijian',
+      component: Tuijian
+    },{
+      path: '/tt',
+      name: 'Tuijian',
+      component: Tuijian
+    },{
+      path: '/tt',
+      name: 'Tuijian',
+      component: Tuijian
+    },{
+      path: '/tt',
+      name: 'Tuijian',
+      component: Tuijian
+    },{
+      path: '/tt',
+      name: 'Tuijian',
+      component: Tuijian
+    },{
+      path: '/tt',
+      name: 'Tuijian',
+      component: Tuijian
+    },{
+      path: '/tt',
+      name: 'Tuijian',
+      component: Tuijian
+    },{
+      path: '/tt',
+      name: 'Tuijian',
+      component: Tuijian
+    },{
+      path: '/tt',
+      name: 'Tuijian',
+      component: Tuijian
+    },
+
+
+
+
+
+
+
+
+
   ]
 })
