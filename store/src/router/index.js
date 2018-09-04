@@ -2,6 +2,7 @@ import Vue from 'vue'
 import Router from 'vue-router'
 import Tou from '@/components/Tou'
 import Wei from '@/components/Wei'
+import Zdj from '@/components/Zdj'
 Vue.use(Router)
 
 export default new Router({
@@ -21,7 +22,7 @@ export default new Router({
       components:{
         '/tou':Tou,
         '/wei':Wei,
-        default:Tou
+        default:Zdj
       }
     }
   ]
