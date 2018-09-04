@@ -2,6 +2,8 @@ import Vue from 'vue'
 import Router from 'vue-router'
 import Tou from '@/components/Tou'
 import Wei from '@/components/Wei'
+import Daoh from '@/components/Daoh'
+import Tuijian from '@/components/Tuijian'
 Vue.use(Router)
 
 export default new Router({
@@ -20,9 +22,15 @@ export default new Router({
       name: 'Tou',
       components:{
         '/tou':Tou,
+        '/daoh':Daoh,
         '/wei':Wei,
         default:Tou
       }
-    }
+    },
+    {
+      path: '/tt',
+      name: 'Tuijian',
+      component: Tuijian
+    },
   ]
 })
